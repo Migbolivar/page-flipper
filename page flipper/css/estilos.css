@@ -1,0 +1,53 @@
+body {
+	font-family: sans-serif;
+}
+
+.b-wrap .b-counter{
+	background-color: #3c5c6a;
+	/*margin-left: 40%;
+	margin-right: 40%;*/
+	color: #fff;
+}
+
+#contenedor{
+	padding-top: 40px;
+}
+
+#gotopage{
+	text-align: center;
+}
+
+#in_go{
+	width: 40px;
+	margin-right: 10px;
+}
+
+#portada, #contra{
+	text-align: center;
+	background-color: #3c5c6a;
+	padding: 20px;
+	height: 610px;
+}
+#pagina1{
+	text-align: center;
+}
+#pagina1 h3{
+	text-align: left;
+}
+.pagina{
+	padding: 30px;
+	height: 590px;
+}
+#pagina2{
+	background-color: #a8cfe0;
+}
+#pagina4{
+	background-color: #a8cfe0;
+}
+#pagina6{
+	background-color: #a8cfe0;
+}
+
+
+
+
